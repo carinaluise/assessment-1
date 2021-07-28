@@ -2,96 +2,96 @@
     {
         "title": "Keynote",
         "description": "Dr. Gavin Wood, Parity Technologies",
-        "youtube_id": "https://youtu.be/HKNuGYk1EkE"
+        "youtube_id": "HKNuGYk1EkE"
     },
     {
         "title": "What the heck is Substrate",
         "description": "Fredrik Harryson, Parity Technologies",
-        "youtube_id": "https://youtu.be/MCJBPAZIAdQ"
+        "youtube_id": "MCJBPAZIAdQ"
     },
     {
         "title": "The Substrate Ecosystem: A 10,000 Foot View",
         "description": "Björn Wagner, Parity Technologies",
-        "youtube_id": "https://youtu.be/IFRNTggsAhA"
+        "youtube_id": "IFRNTggsAhA"
     },
     {
         "title": "Anatomy of a Substrate Node",
         "description": "Dan Forbes, Parity Technologies",
-        "youtube_id": "https://youtu.be/-LlhH1CsNg4"
+        "youtube_id": "-LlhH1CsNg4"
     },
     {
         "title": "Run, Learn, Fix and Repeat: Launching the First Parachain Test Network",
         "description": "Bastian Köcher, Parity Technologies",
-        "youtube_id": "https://youtu.be/gsRYcM8mlu0"
+        "youtube_id": "gsRYcM8mlu0"
     },
     {
         "title": "ink! 3.0: A Rust & Smart Contracts Love Story",
         "description": "Robin Freyler, Parity Techologies",
-        "youtube_id": "https://youtu.be/WNNJzK3dGGQ"
+        "youtube_id": "WNNJzK3dGGQ"
     },
     {
         "title": "Substrate's RPC Endpoints: What You Already Have and How to Get Moar",
         "description": "Tomasz Drwięga Core Developer, Parity Technologies",
-        "youtube_id": "https://youtu.be/xDHP3FlLCno"
+        "youtube_id": "xDHP3FlLCno"
     },
     {
         "title": "Benchmarking Your Runtime",
         "description": "Shawn Tabrizi Core Developer, Parity Technologies",
-        "youtube_id": "https://youtu.be/i3zW4wGexAc"
+        "youtube_id": "i3zW4wGexAc"
     },
     {
         "title": "Fulfilling the Promise of Blockchain in the World of Business",
         "description": "Maksym Petkus, Chronicled",
-        "youtube_id": "https://youtu.be/RpVR3MG6AI8"
+        "youtube_id": "RpVR3MG6AI8"
     },
     {
         "title": "The Future Is Treasury-Funded",
         "description": "Drew Stone, Commonwealth Labs",
-        "youtube_id": "https://youtu.be/uEjyr3_qN-s"
+        "youtube_id": "uEjyr3_qN-s"
     },
     {
         "title": "Polimec: A Fundraising Mechanism for the Polkadot Ecosystem",
         "description": "Ingo Rübe, BOTLabs",
-        "youtube_id": "https://youtu.be/HrrMi1ibS3Q"
+        "youtube_id": "HrrMi1ibS3Q"
     },
     {
         "title": "Unlocking the Vast Potential of the DeFi Market by Using Polkadot Technology",
         "description": "Peter Sergeev, Equilibrium",
-        "youtube_id": "https://youtu.be/yw6x4K5zsKc"
+        "youtube_id": "yw6x4K5zsKc"
     },
     {
         "title": "Building Privacy-Preserving NFTs on Substrate",
         "description": "Cassidy Daly & Jay Butera, Centrifuge",
-        "youtube_id": "https://youtu.be/UJTCbfemw4A"
+        "youtube_id": "UJTCbfemw4A"
     },
     {
         "title": "Bridging Polkadot and Ethereum: Interoperability Today",
         "description": "Aidan Musnitzky, Snowfork",
-        "youtube_id": "https://youtu.be/K6_ZhveZLMc"
+        "youtube_id": "K6_ZhveZLMc"
     },
     {
         "title": "Lessons Learned From Building Substrate Runtime in AssemblyScript",
         "description": "Daniel Ivanov, Limechain",
-        "youtube_id": "https://youtu.be/XpUmSYw-Jzc"
+        "youtube_id": "XpUmSYw-Jzc"
     },
     {
         "title": "Build Your First Blockchain With FRAME",
         "description": "Bryan Chen, Acala Foundation & Dan Forbes, Parity Technologies",
-        "youtube_id": "https://youtu.be/y1AXitnQSyU"
+        "youtube_id": "y1AXitnQSyU"
     },
     {
         "title": "ink! 3.0 Workshop",
         "description": "Robin Freyler & Andrew Jones, Parity Technologies",
-        "youtube_id": "https://youtu.be/dxM_M7-EaVc"
+        "youtube_id": "dxM_M7-EaVc"
     },
     {
         "title": "Parachains Workshop",
         "description": "Ricardo Rius, Parity Technologies",
-        "youtube_id": "https://youtu.be/ubGCusTnhSM"
+        "youtube_id": "ubGCusTnhSM"
     },
     {
         "title": "Using Frontier to Build an Ethereum-Compatible Substrate-Based Chain",
         "description": "Alberto Viera, Telmo Michelena & Joshy Orndorff, PureStake",
-        "youtube_id": "https://youtu.be/U18uEgWVZy4"
-    }   
+        "youtube_id": "U18uEgWVZy4"
+    }
 ]
